@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "first": "Jane",
+        "last": "Doe",
+        "phone": "1-2123458974",
+        "experience": [{
+            "company": "OrangeCart",
+            "title": "Director of Marketing",
+            "start": "2017-01-01",
+            "end": null
+        }]
+    },
+    {
+        "id": 1,
+        "first": "Joe",
+        "last": "Smith",
+        "phone": "1-2121234567",
+        "experience": [{
+            "company": "BananaCart",
+            "title": "Digital Media Manager",
+            "start": "2020-01-01",
+            "end": null
+        }]
+    },
+    {
+        "id": 2,
+        "first": "Mary",
+        "last": "Jones",
+        "phone": "1-2123219876",
+        "experience": [{
+            "company": "BananaCart",
+            "title": "Associate, Political Campaigns",
+            "start": "2018-01-01",
+            "end": null
+        }]
+    },
+    {
+        "id": 3,
+        "first": "Ben",
+        "last": "White",
+        "phone": null,
+        "experience": [{
+            "company": "Banana Co.",
+            "title": "Associate",
+            "start": "2021-01-01",
+            "end": null
+        }]
+    },
+    {
+        "id": 4,
+        "first": "Larry",
+        "last": "Green",
+        "phone": "1-7181234567",
+        "experience": []
+    }
+]

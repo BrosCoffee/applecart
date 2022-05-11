@@ -1,0 +1,55 @@
+[
+    {
+        "id": 0,
+        "owner_id": 2,
+        "contact_nickname": "Mom",
+        "phone": [
+            {
+                "number": "(212) 345-8974",
+                "type": "landline"
+            }, {
+                "number": "+19173454768",
+                "type": "cell"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "owner_id": 3,
+        "contact_nickname": "Dad",
+        "phone": [
+            {
+                "number": "(718) 123-4567",
+                "type": "cell"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "owner_id": 0,
+        "contact_nickname": "Son",
+        "phone": [
+            {
+                "number": "(212) 000-0000",
+                "type": "landline"
+            }, {
+                "number": "+19173454768",
+                "type": "cell"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "owner_id": 1,
+        "contact_nickname": "Aunt",
+        "phone": [
+            {
+                "number": "(212) 345-8974",
+                "type": "landline"
+            }, {
+                "number": "+19173454768",
+                "type": "cell"
+            }
+        ]
+    }
+]
