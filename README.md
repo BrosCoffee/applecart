@@ -53,6 +53,7 @@ connection.py ....                                                              
 ```
 
 ## Note:
-1. Write a function that loads any number of Person records into memory from a JSON file
+1. Please see the source code at https://github.com/BrosCoffee/applecart
+2. Write a function that loads any number of Person records into memory from a JSON file
 containing an array of objects formatted like the following sample. `json.load()` can handle a decent size of a json file. For a large json file, it might encounter memory issues. Streaming `ijson` or loading data in chunks `read_json(chunk_size)` might be the solutions.
-2. Multiple for loops in the `connection.py` file. It is not efficient, but in reality database and queries will handle this problem.
+3. Multiple for loops in the `connection.py` file. It is not efficient, but in reality database and queries will handle this problem.
